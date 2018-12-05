@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc292d7c-0a51-4561-ba93-19903cb522db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,22 +19,25 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2337" />
+          <entry key="cs" value="2571" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2337" />
+          <entry key="C#" value="2571" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetTexter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
+            <state relative-caret-position="225">
               <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
               <folding>
                 <marker date="1543689570517" expanded="false" signature="6:40" ph="..." />
@@ -113,15 +110,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="453">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding>
-                <marker date="1543940929214" expanded="true" signature="6:78" ph="..." />
-                <marker date="1543940929214" expanded="true" signature="123:704" ph="{...}" />
-                <marker date="1543940929214" expanded="true" signature="416:489" ph="{...}" />
-                <marker date="1543940929214" expanded="true" signature="504:605" ph="{...}" />
-                <marker date="1543940929214" expanded="true" signature="562:602" ph="{...}" />
-                <marker date="1543940929214" expanded="true" signature="635:702" ph="{...}" />
+                <marker date="1544026836276" expanded="true" signature="6:123" ph="..." />
+                <marker date="1544026836276" expanded="true" signature="167:943" ph="{...}" />
+                <marker date="1544026836276" expanded="true" signature="395:468" ph="{...}" />
+                <marker date="1544026836276" expanded="true" signature="490:844" ph="{...}" />
+                <marker date="1544026836276" expanded="true" signature="548:841" ph="{...}" />
+                <marker date="1544026836276" expanded="true" signature="874:941" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -130,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="75">
               <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
                 <marker date="1543689914043" expanded="false" signature="6:74" ph="..." />
@@ -274,11 +271,20 @@
       <workItem from="1543688486656" duration="1738000" />
       <workItem from="1543748608787" duration="2701000" />
       <workItem from="1543940147162" duration="1408000" />
+      <workItem from="1544021004209" duration="1941000" />
     </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1544021132989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021132989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14359000" />
+    <option name="totallyTimeSpent" value="16300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,8 +297,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13040541" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13243243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,6 +359,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -394,6 +405,14 @@
         <state relative-caret-position="-2136" />
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/e0/806670ab/Text.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="2" selection-start-column="12" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetCorrectCameraHeight.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -427,32 +446,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/e0/806670ab/Text.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="2" selection-start-column="12" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <marker date="1543689914043" expanded="false" signature="6:74" ph="..." />
-            <marker date="1543689914043" expanded="true" signature="119:504" ph="{...}" />
-            <marker date="1543689914043" expanded="true" signature="311:431" ph="{...}" />
-            <marker date="1543689914043" expanded="true" signature="450:502" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyScript.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetTexter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="225">
           <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
           <folding>
             <marker date="1543689570517" expanded="false" signature="6:40" ph="..." />
@@ -464,17 +460,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1543689914043" expanded="false" signature="6:74" ph="..." />
+            <marker date="1543689914043" expanded="true" signature="119:504" ph="{...}" />
+            <marker date="1543689914043" expanded="true" signature="311:431" ph="{...}" />
+            <marker date="1543689914043" expanded="true" signature="450:502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="453">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
-            <marker date="1543940929214" expanded="true" signature="6:78" ph="..." />
-            <marker date="1543940929214" expanded="true" signature="123:704" ph="{...}" />
-            <marker date="1543940929214" expanded="true" signature="416:489" ph="{...}" />
-            <marker date="1543940929214" expanded="true" signature="504:605" ph="{...}" />
-            <marker date="1543940929214" expanded="true" signature="562:602" ph="{...}" />
-            <marker date="1543940929214" expanded="true" signature="635:702" ph="{...}" />
+            <marker date="1544026836276" expanded="true" signature="6:123" ph="..." />
+            <marker date="1544026836276" expanded="true" signature="167:943" ph="{...}" />
+            <marker date="1544026836276" expanded="true" signature="395:468" ph="{...}" />
+            <marker date="1544026836276" expanded="true" signature="490:844" ph="{...}" />
+            <marker date="1544026836276" expanded="true" signature="548:841" ph="{...}" />
+            <marker date="1544026836276" expanded="true" signature="874:941" ph="{...}" />
           </folding>
         </state>
       </provider>
