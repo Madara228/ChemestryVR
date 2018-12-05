@@ -21,20 +21,17 @@ public class PlayerMovement : MonoBehaviour
         if (camera.eulerAngles.x > _toggleAngle && camera.eulerAngles.x < 90f)
         {
             _moveForward = true;
-            Debug.Log(camera.eulerAngles.x);
         }
         else
         {
             
             _moveForward = false;
-            Debug.Log(camera.eulerAngles.x);
         }
 
         if (_moveForward)
         {
             Vector3 forward = camera.TransformDirection(Vector3.forward);
             cc.SimpleMove(forward * speed);
-            Debug.Log(camera.eulerAngles.x);
         }
     }
 }
