@@ -157,16 +157,16 @@ TextMesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1340298815538156}
-  m_Text: Cl
+  m_Text: H
   m_OffsetZ: 0
-  m_CharacterSize: 1
+  m_CharacterSize: 0.5
   m_LineSpacing: 1
   m_Anchor: 4
-  m_Alignment: 0
+  m_Alignment: 1
   m_TabSize: 4
-  m_FontSize: 0
+  m_FontSize: 10
   m_FontStyle: 0
-  m_RichText: 1
+  m_RichText: 0
   m_Font: {fileID: 12800000, guid: 4eedafad5084240419e649245c7b2093, type: 3}
   m_Color:
     serializedVersion: 2

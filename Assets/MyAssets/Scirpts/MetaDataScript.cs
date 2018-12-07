@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using System.IO;
 public class MetaDataScript : MonoBehaviour
 {
 
-    [SerializeField] private Text new_text;
+    public Text new_text;
     public string str;
     public List<string> data = new List<string>();
     public List<string> data_1 = new List<string>();
@@ -14,7 +14,7 @@ public class MetaDataScript : MonoBehaviour
     {
         data_1.Add("HHO");
         data_1.Add("CHHHH");
-        new_text = GetComponentInChildren<Text>();
+        //new_text = GetComponentInChildren<Text>();
 
     }
 

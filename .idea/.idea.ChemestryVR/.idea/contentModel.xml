@@ -3,11 +3,24 @@
   <component name="ContentModelStore">
     <e p="C:\Users\karag\.Rider2018.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\karag\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\karag\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_ChemestryVR.1433048677.00" t="ExcludeRecursive" />
-    <e p="C:\Users\karag\OneDrive\Рабочий стол\UnityProjects\ChemestryVR" t="IncludeRecursive">
+    <e p="C:\Users\karag\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_ChemestryVR.293495152.00" t="ExcludeRecursive" />
+    <e p="D:\ChemestryVR" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="ExampleAssets" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="SetCorrectCameraHeight.cs" t="Include" />
+          </e>
+          <e p="TutorialInfo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ReadmeEditor.cs" t="Include" />
+              </e>
+              <e p="Readme.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="GoogleVR" t="Include">
           <e p="Demos" t="Include">
             <e p="Editor" t="Include">
@@ -233,24 +246,120 @@
             </e>
           </e>
         </e>
+        <e p="LiquidVolume" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Beer" t="Include">
+              <e p="DemoResources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="SpillController.cs" t="Include" />
+                </e>
+                <e p="Textures" t="Include">
+                  <e p="readme.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Cubes" t="Include">
+              <e p="DemoResources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="CubeSpawn.cs" t="Include" />
+                  <e p="RandomRotation.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Exhibition" t="Include">
+              <e p="DemoResources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="CameraAnimator.cs" t="Include" />
+                  <e p="CylinderManager.cs" t="Include" />
+                  <e p="FishAnimator.cs" t="Include" />
+                  <e p="FlaskAnimator.cs" t="Include" />
+                  <e p="PortalAnimator.cs" t="Include" />
+                  <e p="SpotlightAnimator.cs" t="Include" />
+                  <e p="VerticalBounce.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Forces" t="Include">
+              <e p="DemoResources" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="RandomMove.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="NonCapped" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Potion" t="Include">
+              <e p="DemoResources" t="Include">
+                <e p="Prefabs" t="Include">
+                  <e p="readme.txt" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="RotateLight.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="LiquidVolumeEditor.cs" t="Include" />
+          </e>
+          <e p="README FIRST.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Prefabs" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="LiquidVolumeBlur.shader" t="Include" />
+              <e p="LiquidVolumeBump.shader" t="Include" />
+              <e p="LiquidVolumeDefault.shader" t="Include" />
+              <e p="LiquidVolumeDefaultNoFlask.shader" t="Include" />
+              <e p="LiquidVolumeReflections.shader" t="Include" />
+              <e p="LiquidVolumeSimple.shader" t="Include" />
+              <e p="LiquidVolumeSmoke.shader" t="Include" />
+              <e p="LiquidVolumeZWriteBack.shader" t="Include" />
+              <e p="LiquidVolumeZWriteFront.shader" t="Include" />
+              <e p="LVBlur.cginc" t="Include" />
+              <e p="LVBlurPass.cginc" t="Include" />
+              <e p="LVLiquidPass3D.cginc" t="Include" />
+              <e p="LVLiquidPass3DSmoke.cginc" t="Include" />
+              <e p="LVLiquidPassBase.cginc" t="Include" />
+              <e p="LVLiquidPassSimple.cginc" t="Include" />
+              <e p="LVShadowPass.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="LiquidVolume.cs" t="Include" />
+          </e>
+        </e>
         <e p="MyAssets" t="Include">
           <e p="Scirpts" t="Include">
             <e p="ApplyNewScript.cs" t="Include" />
+            <e p="FirbaseController.cs" t="Include" />
             <e p="GetTexter.cs" t="Include" />
             <e p="MetaDataScript.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
-          </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="SetCorrectCameraHeight.cs" t="Include" />
-        </e>
-        <e p="TutorialInfo" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Editor" t="Include">
-              <e p="ReadmeEditor.cs" t="Include" />
+            <e p="SimpleJSON.cs" t="Include" />
+            <e p="UnityLitJson" t="Include">
+              <e p="Extensions.cs" t="Include" />
+              <e p="IJsonWrapper.cs" t="Include" />
+              <e p="JsonAttribute.cs" t="Include" />
+              <e p="JsonData.cs" t="Include" />
+              <e p="JsonException.cs" t="Include" />
+              <e p="JsonMapper.cs" t="Include" />
+              <e p="JsonMockWrapper.cs" t="Include" />
+              <e p="JsonReader.cs" t="Include" />
+              <e p="JsonWriter.cs" t="Include" />
+              <e p="Lexer.cs" t="Include" />
+              <e p="ParserToken.cs" t="Include" />
+              <e p="Platform.cs" t="Include" />
+              <e p="Unity" t="Include">
+                <e p="UnityTypeBindings.cs" t="Include" />
+              </e>
             </e>
-            <e p="Readme.cs" t="Include" />
           </e>
+        </e>
+        <e p="UnityLitJson-Example" t="Include">
+          <e p="JsonExample.cs" t="Include" />
         </e>
       </e>
       <e p="ChemestryVR.sln" t="IncludeFlat" />
