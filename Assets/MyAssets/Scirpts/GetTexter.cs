@@ -27,9 +27,6 @@ public class GetTexter : MonoBehaviour
 		for (int i = 0; i < _metaDataScript.data.Count; i++)
 		{
 			_metaDataScript.str += _metaDataScript.data[i];
-			Debug.Log(_metaDataScript.str + "____________str_________");
-			Debug.Log(_metaDataScript.data + "___________data_________");
-			Debug.Log(_metaDataScript.data[i] + "_____________data[i]_________");
 		}
 		
 		print(text_of_element.text.ToString());

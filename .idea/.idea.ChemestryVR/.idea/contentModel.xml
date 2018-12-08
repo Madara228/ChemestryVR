@@ -334,10 +334,12 @@
         <e p="MyAssets" t="Include">
           <e p="Scirpts" t="Include">
             <e p="ApplyNewScript.cs" t="Include" />
-            <e p="FirbaseController.cs" t="Include" />
+            <e p="GetText.cs" t="Include" />
             <e p="GetTexter.cs" t="Include" />
+            <e p="JsonController.cs" t="Include" />
             <e p="MetaDataScript.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
+            <e p="PotionScript.cs" t="Include" />
             <e p="SimpleJSON.cs" t="Include" />
             <e p="UnityLitJson" t="Include">
               <e p="Extensions.cs" t="Include" />

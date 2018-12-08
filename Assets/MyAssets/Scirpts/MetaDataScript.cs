@@ -10,16 +10,23 @@ public class MetaDataScript : MonoBehaviour
     public List<string> data = new List<string>();
     public List<string> data_1 = new List<string>();
 
+    public Button btn;
+    
+    
+    
+
     void Start()
     {
-        data_1.Add("HHO");
-        data_1.Add("CHHHH");
-        //new_text = GetComponentInChildren<Text>();
-
     }
 
     void Update()
     {
         new_text.text = str.ToString();
+    }
+
+    public void OnClick()
+    {
+        Debug.Log(JsonController.node[str]["name"]);
+        Debug.Log(JsonController.node[str]["description"]);
     }
 }
