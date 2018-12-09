@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        //transform.position = new Vector3(transform.position.x,0.65f,transform.position.z);
+
         if (camera.eulerAngles.x > _toggleAngle && camera.eulerAngles.x < 90f)
         {
             _moveForward = true;
@@ -30,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (_moveForward)
         {
+            
             Vector3 forward = camera.TransformDirection(Vector3.forward);
             cc.SimpleMove(forward * speed);
         }

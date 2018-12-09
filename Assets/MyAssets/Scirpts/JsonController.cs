@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Runtime.InteropServices;
 using UnityEngine;
-using UnityEditor.PackageManager;
 using SimpleJSON;
+using UnityEditor;
 
 public class JsonController : MonoBehaviour
 {

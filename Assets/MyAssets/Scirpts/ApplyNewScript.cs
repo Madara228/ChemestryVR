@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
-using Random = UnityEngine.Random;
 
 public class ApplyNewScript : MonoBehaviour
 {
@@ -29,22 +27,21 @@ public class ApplyNewScript : MonoBehaviour
             Vector3 pos = center + new Vector3(Random.Range(-size.x / 2, size.x / 2),
                               Random.Range(-size.y / 2, size.y / 2), Random.Range(-size.z / 2, size.z / 2));
             //Рандомный инстанс
-            GameObject ball_gobj = ball;
-            var txt = ball_gobj.GetComponentInChildren<TextMesh>();
+            var txt = ball.GetComponentInChildren<TextMesh>();
             txt.text = _metaDataScript.data[i].ToString();
             //Получаем наш текст
 
             if (i>1 && _metaDataScript.data[i] != _metaDataScript.data[i - 1])
             {
+                var ball_gobj = Instantiate(ball, pos, Quaternion.identity);
                 var ball_renderer = ball_gobj.GetComponent<Renderer>();
-                ball_renderer.material.color = new Color(Random.Range(0, 255), Random.Range(0, 255), Random.Range(0, 255));
+                ball_renderer.material.color = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
                 Debug.Log(ball_renderer.material.color);
-                Instantiate(ball_gobj, pos, Quaternion.identity);
                 Debug.Log("material render");
             }
             else
             {
-                Instantiate(ball_gobj, pos, Quaternion.identity);
+                Instantiate(ball, pos, Quaternion.identity);
                 Debug.Log("not edited");
             }
 
