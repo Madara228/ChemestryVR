@@ -2,6 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+using UnityEngine.SceneManagement;
 public class MetaDataScript : MonoBehaviour
 {
 
@@ -11,10 +12,19 @@ public class MetaDataScript : MonoBehaviour
     public List<string> data_1 = new List<string>();
 
     public Button btn;
-    
-    
-    
 
+
+
+
+    public void VideoScene()
+    {
+        SceneManager.LoadScene("SceneVideo");
+    }
+
+    public void ChemScene()
+    {
+        SceneManager.LoadScene("SceneWithLab");
+    }
     void Start()
     {
     }

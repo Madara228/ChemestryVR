@@ -32,6 +32,7 @@ public class VideoController : MonoBehaviour
 	{
 		_player = GetComponent<VideoPlayer>();
 		SetVideo(0);
+		
 	}
 
 	public void SetVideo(int number)

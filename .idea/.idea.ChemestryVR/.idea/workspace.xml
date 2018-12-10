@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc292d7c-0a51-4561-ba93-19903cb522db" name="Default Changelist" comment="ё">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChemestryVR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Prefabs/Sphere.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Prefabs/Sphere.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/JsonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/JsonController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PotionScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PotionScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scenes/SceneVideo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scenes/SceneVideo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +75,16 @@
     <session id="725660966">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -104,14 +101,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="4755" />
+          <entry key="cs" value="4932" />
           <entry key="json" value="205" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="4755" />
+          <entry key="C#" value="4932" />
           <entry key="JSON" value="205" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -120,34 +117,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+            <state relative-caret-position="145">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding>
-                <marker date="1544366810771" expanded="true" signature="6:103" ph="..." />
-                <marker date="1544366810771" expanded="true" signature="149:1293" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="452:514" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="549:976" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="570:735" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="742:918" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1002:1095" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1030:1058" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1065:1092" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1116:1189" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1143:1180" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1210:1291" ph="{...}" />
-                <marker date="1544366810771" expanded="true" signature="1251:1288" ph="{...}" />
+                <marker date="1544428311280" expanded="false" signature="6:103" ph="..." />
+                <marker date="1544428311280" expanded="true" signature="149:1296" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="452:517" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="552:979" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="573:738" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="745:921" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1005:1098" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1033:1061" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1068:1095" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1119:1192" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1146:1183" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1213:1294" ph="{...}" />
+                <marker date="1544428311280" expanded="true" signature="1254:1291" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
+            <state relative-caret-position="300">
               <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
               <folding>
                 <marker date="1544367458666" expanded="true" signature="63:930" ph="{...}" />
@@ -156,6 +153,24 @@
                 <marker date="1544367458666" expanded="true" signature="611:664" ph="{...}" />
                 <marker date="1544367458666" expanded="true" signature="677:744" ph="{...}" />
                 <marker date="1544367458666" expanded="true" signature="771:922" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <folding>
+                <marker date="1544382812137" expanded="true" signature="6:126" ph="..." />
+                <marker date="1544382812137" expanded="true" signature="170:784" ph="{...}" />
+                <marker date="1544382812137" expanded="true" signature="383:441" ph="{...}" />
+                <marker date="1544382812137" expanded="true" signature="470:530" ph="{...}" />
+                <marker date="1544382812137" expanded="true" signature="547:559" ph="{...}" />
+                <marker date="1544382812137" expanded="true" signature="578:630" ph="{...}" />
+                <marker date="1544382812137" expanded="true" signature="657:782" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -175,36 +190,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/UnityLitJson-Example/JsonExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LiquidVolume/Demos/Beer/DemoResources/Scripts/SpillController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F6F7906-6EB6-434C-BE21-380AACB16DA8/db/15424c40/FirebaseApp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LiquidVolume/Scripts/LiquidVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/21b10e68/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetTexter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/700a8632/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/JsonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrUnitySdkVersion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F6F7906-6EB6-434C-BE21-380AACB16DA8/79/3535ab50/AppUtilPINVOKE.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityLitJson-Example/JsonExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/Pose3D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/SimpleJSON.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/JsonController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F6F7906-6EB6-434C-BE21-380AACB16DA8/79/3535ab50/AppUtilPINVOKE.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LiquidVolume/Demos/Beer/DemoResources/Scripts/SpillController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/33/2aa58d4e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LiquidVolume/Scripts/LiquidVolume.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/a5/a0fc5d64/Debug.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshPro.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/Cardboard/GvrReticlePointer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/VrGame/Assets/Scripts/MovingScript.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.render-pipelines.lightweight@2.0.6-preview/LWRP/Shaders/LightweightStandard.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F6F7906-6EB6-434C-BE21-380AACB16DA8/db/15424c40/FirebaseApp.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/e0/806670ab/Text.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/21b10e68/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrUnitySdkVersion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetTexter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/700a8632/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.render-pipelines.lightweight@2.0.6-preview/LWRP/Shaders/LightweightStandard.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/e0/806670ab/Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TextMeshPro.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/Cardboard/GvrReticlePointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/33/2aa58d4e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/DraggerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/VrGame/Assets/Scripts/MovingScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/a5/a0fc5d64/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -219,15 +234,15 @@
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetText.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/FirbaseController.cs" />
         <option value="$PROJECT_DIR$/Assets/StreamingAssets/Water.json" />
-        <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/GetTexter.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PotionScript.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/ApplyNewScript.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/DraggerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/JsonController.cs" />
         <option value="$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs" />
         <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs" />
       </list>
     </option>
   </component>
@@ -249,6 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -279,7 +295,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,6 +372,8 @@
       <workItem from="1544344359317" duration="255000" />
       <workItem from="1544353623912" duration="60000" />
       <workItem from="1544363250885" duration="4305000" />
+      <workItem from="1544382663680" duration="354000" />
+      <workItem from="1544423300095" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1544021132989</created>
@@ -369,7 +386,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59023000" />
+    <option name="totallyTimeSpent" value="59560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,8 +399,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16486487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17027026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -592,36 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1185">
           <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
-          <folding>
-            <marker date="946713600000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
-            <marker date="946713600000" expanded="false" signature="616:660" ph="..." />
-            <marker date="946713600000" expanded="true" signature="662:789" ph="/// Draws a circular reticle in front of any object that the user points at. ... " />
-            <marker date="946713600000" expanded="true" signature="924:7681" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1707:1931" ph="/// Sorting order to use for the reticle's renderer. ... " />
-            <marker date="946713600000" expanded="true" signature="2056:2133" ph="/* Current inner angle of the reticle (in degrees). ... */" />
-            <marker date="946713600000" expanded="true" signature="2192:2269" ph="/* Current outer angle of the reticle (in degrees). ... */" />
-            <marker date="946713600000" expanded="true" signature="2328:2408" ph="/* Current distance of the reticle (in meters). ... */" />
-            <marker date="946713600000" expanded="true" signature="2473:2591" ph="/* Current inner and outer diameters of the reticle, before distance multiplication. ... */" />
-            <marker date="946713600000" expanded="true" signature="2886:2963" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3058:3135" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3201:3354" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3535:3841" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3875:5041" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="4047:4105" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="4160:4218" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5058:5161" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5197:5416" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5434:5462" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5530:6184" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5571:5668" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5893:6048" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6225:7679" ph="{...}" />
-            <marker date="946713600000" expanded="false" signature="6435:7030" ph="Vertices" />
-            <marker date="946713600000" expanded="true" signature="6613:7015" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6621:6743" ph="/* Add two vertices for every circle segment: one at the beginning of the ... */" />
-            <marker date="946713600000" expanded="false" signature="7036:7455" ph="Triangles" />
-            <marker date="946713600000" expanded="true" signature="7230:7440" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,100 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1350">
           <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding>
-            <marker date="946713600000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
-            <marker date="946713600000" expanded="false" signature="616:660" ph="..." />
-            <marker date="946713600000" expanded="true" signature="662:1384" ph="/// This abstract class should be implemented for pointer based input, and used with ... " />
-            <marker date="946713600000" expanded="true" signature="1473:20467" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1501:3400" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1507:2628" ph="/// Casts a ray from the camera through the target of the pointer. ... " />
-            <marker date="946713600000" expanded="true" signature="2645:2753" ph="/// Cast a ray directly from the pointer origin. ... " />
-            <marker date="946713600000" expanded="true" signature="2770:3384" ph="/// Default method for casting ray. ... " />
-            <marker date="946713600000" expanded="true" signature="3404:3545" ph="/// Represents a ray segment for a series of intersecting rays. ... " />
-            <marker date="946713600000" expanded="true" signature="3573:3840" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3844:4106" ph="/// Determines which raycast mode to use for this raycaster. ... " />
-            <marker date="946713600000" expanded="true" signature="4109:4338" ph="[...]" />
-            <marker date="946713600000" expanded="true" signature="4397:4635" ph="/// Determines the eventCamera for _GvrPointerPhysicsRaycaster_ and _GvrPointerGraphicRaycaster_. ... " />
-            <marker date="946713600000" expanded="true" signature="5102:5180" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5112:5176" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5289:5410" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5299:5406" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5523:5649" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5533:5645" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="5653:5836" ph="/// This is used to determine if the enterRadius or the exitRadius should be used for the raycast. ... " />
-            <marker date="946713600000" expanded="true" signature="5898:6009" ph="/// If ShouldUseExitRadiusForRaycast is true, returns the exitRadius. ... " />
-            <marker date="946713600000" expanded="true" signature="6046:6282" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6056:6278" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6193:6229" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6286:6411" ph="/// Returns the transform that represents this pointer. ... " />
-            <marker date="946713600000" expanded="true" signature="6456:6501" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6466:6497" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6576:6879" ph="/// If true, the trigger was just pressed. This is an event flag: ... " />
-            <marker date="946713600000" expanded="true" signature="6914:7180" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="6924:7176" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="7023:7142" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="7184:7527" ph="/// If true, the trigger is currently being pressed. This is not ... " />
-            <marker date="946713600000" expanded="true" signature="7561:7816" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="7571:7812" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="7665:7779" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="7820:8120" ph="/// If true, the trigger was just released. This is an event flag: ... " />
-            <marker date="946713600000" expanded="true" signature="8153:8409" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="8163:8405" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="8258:8373" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="8413:8794" ph="/// If true, the user just started touching the touchpad. This is an event flag (it is true ... " />
-            <marker date="946713600000" expanded="true" signature="8827:9023" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="8837:9019" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="8880:8911" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9027:9296" ph="/// If true, the user is currently touching the touchpad. ... " />
-            <marker date="946713600000" expanded="true" signature="9330:9522" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9340:9518" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9383:9414" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9526:9905" ph="/// If true, the user just stopped touching the touchpad. This is an event flag (it is true ... " />
-            <marker date="946713600000" expanded="true" signature="9936:10130" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9946:10126" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="9989:10020" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="10134:10700" ph="/// Position of the current touch, if touching the touchpad. ... " />
-            <marker date="946713600000" expanded="true" signature="10735:11034" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="10745:11030" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="10788:10826" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11175:11421" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11185:11417" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11276:11314" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11553:11809" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11563:11805" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11654:11685" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11707:11738" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="11813:11960" ph="/// When using the Camera raycast mode, this is used to calculate ... " />
-            <marker date="946713600000" expanded="true" signature="12014:12068" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="12024:12064" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="12100:12237" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="12110:12233" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="12153:12200" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="12378:12643" ph="/// Called when the pointer is facing a valid GameObject. This can be a 3D ... " />
-            <marker date="946713600000" expanded="true" signature="12735:13015" ph="/// Called every frame the user is still pointing at a valid GameObject. This ... " />
-            <marker date="946713600000" expanded="true" signature="13113:13436" ph="/// Called when the pointer no longer faces an object previously ... " />
-            <marker date="946713600000" expanded="true" signature="13672:14284" ph="/// Return the radius of the pointer. It is used by GvrPointerPhysicsRaycaster when ... " />
-            <marker date="946713600000" expanded="true" signature="14374:14654" ph="/// Returns a point in worldspace a specified distance along the pointer. ... " />
-            <marker date="946713600000" expanded="true" signature="14709:14848" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="14852:15099" ph="/// Returns the ray used for projecting points out of the pointer for the given distance. ... " />
-            <marker date="946713600000" expanded="true" signature="15154:15582" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="15242:15497" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="15341:15413" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="15586:15838" ph="/// Calculates the ray for a given Raycast mode. ... " />
-            <marker date="946713600000" expanded="true" signature="15921:17527" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="16015:16123" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="16219:16324" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="16395:17503" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="16503:16725" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="17531:17683" ph="/// Calculates the ray for the segment of the Hybrid raycast determined by the raycast mode ... " />
-            <marker date="946713600000" expanded="true" signature="17778:18525" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="17828:18501" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="18560:18615" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="18674:20442" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="18746:20438" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="18775:20432" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="20256:20373" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,28 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <marker date="946713600000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
-            <marker date="946713600000" expanded="true" signature="616:726" ph="..." />
-            <marker date="946713600000" expanded="true" signature="728:888" ph="/// Exposes events from _GvrEventExecutor_ that are fired by _GvrPointerInputModule_ to the editor. ... " />
-            <marker date="946713600000" expanded="true" signature="1026:3566" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1116:1121" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1391:1416" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1437:1465" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1482:1603" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1635:2181" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1748:1769" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="1795:1816" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="2216:2764" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="2329:2350" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="2377:2398" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="2850:2901" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="2986:3036" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3119:3167" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3253:3304" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3389:3439" ph="{...}" />
-            <marker date="946713600000" expanded="true" signature="3519:3564" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,14 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <marker date="1544295251337" expanded="false" signature="6:76" ph="..." />
-            <marker date="1544295251337" expanded="true" signature="199:1329" ph="{...}" />
-            <marker date="1544295251337" expanded="true" signature="279:983" ph="{...}" />
-            <marker date="1544295251337" expanded="true" signature="1056:1104" ph="{...}" />
-            <marker date="1544295251337" expanded="true" signature="1131:1224" ph="{...}" />
-            <marker date="1544295251337" expanded="true" signature="1250:1327" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,15 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding>
-            <marker date="1544292160450" expanded="true" signature="6:123" ph="..." />
-            <marker date="1544292160450" expanded="true" signature="389:510" ph="{...}" />
-            <marker date="1544292160450" expanded="true" signature="535:1608" ph="{...}" />
-            <marker date="1544292160450" expanded="true" signature="602:1602" ph="{...}" />
-            <marker date="1544292160450" expanded="true" signature="1074:1444" ph="{...}" />
-            <marker date="1544292160450" expanded="true" signature="1461:1591" ph="{...}" />
-            <marker date="1544292160450" expanded="true" signature="1641:1726" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,26 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-          <folding>
-            <marker date="1544273010668" expanded="false" signature="6:40" ph="..." />
-            <marker date="1544273010668" expanded="true" signature="79:823" ph="{...}" />
-            <marker date="1544273010668" expanded="true" signature="297:537" ph="{...}" />
-            <marker date="1544273010668" expanded="true" signature="565:819" ph="{...}" />
-            <marker date="1544273010668" expanded="true" signature="712:771" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1544206571259" expanded="false" signature="6:91" ph="..." />
-            <marker date="1544206571259" expanded="true" signature="135:585" ph="{...}" />
-            <marker date="1544206571259" expanded="true" signature="348:360" ph="{...}" />
-            <marker date="1544206571259" expanded="true" signature="379:431" ph="{...}" />
-            <marker date="1544206571259" expanded="true" signature="458:583" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,43 +652,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <marker date="1544353683988" expanded="true" signature="6:184" ph="..." />
-            <marker date="1544353683988" expanded="true" signature="229:1294" ph="{...}" />
-            <marker date="1544353683988" expanded="true" signature="318:706" ph="{...}" />
-            <marker date="1544353683988" expanded="true" signature="724:816" ph="{...}" />
-            <marker date="1544353683988" expanded="true" signature="858:1292" ph="{...}" />
-            <marker date="1544353683988" expanded="true" signature="1065:1279" ph="{...}" />
-            <marker date="1544353683988" expanded="true" signature="1190:1269" ph="/* Debug.Log(itemsContent); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-          <folding>
-            <marker date="1544366810771" expanded="true" signature="6:103" ph="..." />
-            <marker date="1544366810771" expanded="true" signature="149:1293" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="452:514" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="549:976" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="570:735" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="742:918" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1002:1095" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1030:1058" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1065:1092" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1116:1189" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1143:1180" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1210:1291" ph="{...}" />
-            <marker date="1544366810771" expanded="true" signature="1251:1288" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
+        <state relative-caret-position="300">
           <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           <folding>
             <marker date="1544367458666" expanded="true" signature="63:930" ph="{...}" />
@@ -862,6 +666,44 @@
             <marker date="1544367458666" expanded="true" signature="611:664" ph="{...}" />
             <marker date="1544367458666" expanded="true" signature="677:744" ph="{...}" />
             <marker date="1544367458666" expanded="true" signature="771:922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/MetaDataScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <marker date="1544382812137" expanded="true" signature="6:126" ph="..." />
+            <marker date="1544382812137" expanded="true" signature="170:784" ph="{...}" />
+            <marker date="1544382812137" expanded="true" signature="383:441" ph="{...}" />
+            <marker date="1544382812137" expanded="true" signature="470:530" ph="{...}" />
+            <marker date="1544382812137" expanded="true" signature="547:559" ph="{...}" />
+            <marker date="1544382812137" expanded="true" signature="578:630" ph="{...}" />
+            <marker date="1544382812137" expanded="true" signature="657:782" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyAssets/Scirpts/VideoScripts/VideoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <marker date="1544428311280" expanded="false" signature="6:103" ph="..." />
+            <marker date="1544428311280" expanded="true" signature="149:1296" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="452:517" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="552:979" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="573:738" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="745:921" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1005:1098" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1033:1061" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1068:1095" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1119:1192" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1146:1183" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1213:1294" ph="{...}" />
+            <marker date="1544428311280" expanded="true" signature="1254:1291" ph="{...}" />
           </folding>
         </state>
       </provider>
