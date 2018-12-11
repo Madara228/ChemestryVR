@@ -334,6 +334,9 @@
         <e p="MyAssets" t="Include">
           <e p="Scirpts" t="Include">
             <e p="ApplyNewScript.cs" t="Include" />
+            <e p="ChemLab" t="Include">
+              <e p="InteractionScript.cs" t="Include" />
+            </e>
             <e p="DraggerScript.cs" t="Include" />
             <e p="GetText.cs" t="Include" />
             <e p="GetTexter.cs" t="Include" />

@@ -7,9 +7,10 @@ public class VideoController : MonoBehaviour
 {
 
 
-	public string[] Urls;
+	public VideoClip[] Urls;
 
 	public bool[] VR;
+	
 	
 	VideoPlayer _player;
 
@@ -51,7 +52,7 @@ public class VideoController : MonoBehaviour
 			_player.targetMaterialRenderer = videoMaterial;
 			Scene.SetActive(true);
 		}
-		_player.url = Urls[number];
+		_player.clip = Urls[number];
 		currentVideo = number;
 	}
 

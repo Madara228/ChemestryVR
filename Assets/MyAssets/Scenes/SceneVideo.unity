@@ -1322,7 +1322,7 @@ VideoPlayer:
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
-  m_DataSource: 1
+  m_DataSource: 0
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
@@ -1350,9 +1350,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Urls:
-  - "https://r7---sn-gvnuxaxjvh-n8vr.googlevideo.com/videoplayback?sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,ratebypass,requiressl,source&lmt=1466398367597947&ipbits=0&source=youtube&ei=0v0NXNuPJM2xVYWbi9gI&itag=18&gir=yes&ip=154.72.85.194&pl=24&expire=1544442418&signature=2DC0EF6D8086C9E998628EC46A4EB91D38CB6767.7DFE3C8CD5CBFF4D684D045B3D56C14E6948C3AF&id=o-ACHAyfx9BVdYkxV0jxalvD9aKwBHF9UAbTkgfgu2L_Mp&mime=video%2Fmp4&key=cms1&c=WEB&requiressl=yes&ratebypass=yes&clen=19038650&dur=412.270&fvip=1&video_id=S2nLB9c5xRY&title=\u041F\u0435\u0440\u0438\u043E\u0434\u0438\u0447\u0435\u0441\u043A\u0430\u044F+\u0441\u0438\u0441\u0442\u0435\u043C\u0430+\u043A\u0430\u043A+\u0443\u0441\u043B\u043E\u0432\u043D\u0430\u044F+\u0437\u0430\u043F\u0438\u0441\u044C+\u043F\u0435\u0440\u0438\u043E\u0434\u0438\u0447\u0435\u0441\u043A\u043E\u0433\u043E+\u0437\u0430\u043A\u043E\u043D\u0430.+\u0426\u0435\u043D\u0442\u0440+\u043E\u043D\u043B\u0430\u0439\u043D-\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u044F+\xAB\u0424\u043E\u043A\u0441\u0444\u043E\u0440\u0434\xBB&rm=sn-nx5jvh-q5ge7s,sn-hc5d7e&fexp=23763603&req_id=9680762c663ea3ee&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=194.87.150.121&mm=29&mn=sn-gvnuxaxjvh-n8vr&ms=rdu&mt=1544427832&mv=m"
-  - https://r5---sn-4g5ednek.googlevideo.com/videoplayback?expire=1544450344&sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,ratebypass,requiressl,source&beids=9466587&gir=yes&key=cms1&id=o-AErMWQ51NN7CKASIQJ3kDHkEMnmqglAtKfItflOhhYQ2&ei=xxwOXJC0N47D1gKSo6CwBg&source=youtube&dur=355.520&pl=24&ip=92.39.55.186&lmt=1435119627233700&clen=16045174&requiressl=yes&c=WEB&signature=1B3CBACEDC04E31C50C58F1EDF9E47F9ACEBA2FA.1BDCF2B5C95BD8D34BC74CACBAEB57EBBBA20928&mime=video%2Fmp4&ipbits=0&ratebypass=yes&fvip=5&itag=18&video_id=zQduzPq_-io&title=%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F.+11+%D0%BA%D0%BB%D0%B0%D1%81%D1%81%2C+2015.+%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5+2%2C+%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0+%D0%BA+%D0%95%D0%93%D0%AD.+%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F+%C2%AB%D0%A4%D0%BE%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%C2%BB&rm=sn-nu5goxu-3p867e,sn-4g5e7k76&fexp=9466587,23763603&req_id=adc1902c766fa3ee&ipbypass=yes&mip=194.87.150.121&cm2rm=sn-gvnuxaxjvh-n8vk76,sn-n8vy6e6&redirect_counter=4&cms_redirect=yes&mm=34&mn=sn-4g5ednek&ms=ltu&mt=1544428656&mv=m
-  - https://r4---sn-n8v7znzl.googlevideo.com/videoplayback?ip=103.216.82.209&lmt=1522385668493420&dur=150.813&pl=24&source=youtube&ei=IR4OXNeCAouuoQPf65jADQ&id=o-AHGi8KDWI-SlfDHQ4mnM3wMHMNuQJKSCJ0QQTXo9GTz7&key=cms1&c=WEB&gir=yes&sparams=clen,dur,ei,expire,gir,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,nh,pl,ratebypass,requiressl,source&expire=1544450689&itag=18&ratebypass=yes&fvip=4&ipbits=0&mime=video%2Fmp4&signature=154512724D8E04758A8F061A50807552C177F6A1.24ED012B17D4D9147213E7EC2B84DA3D6D71198C&clen=13225176&requiressl=yes&video_id=K1KtIzsxywM&title=Chemistry+Laboratory+-+Virtual+Tour+%28360+VR+Video%29&rm=sn-bu2a-nu8e7l,sn-cvhly7z&fexp=23763603&req_id=a21f77ca9810a3ee&ipbypass=yes&mip=194.87.150.121&redirect_counter=3&cm2rm=sn-gvnuxaxjvh-n8vr7z&cms_redirect=yes&mm=30&mn=sn-n8v7znzl&ms=nxu&mt=1544428955&mv=m&nh=IgpwcjAxLnN2bzA1KgkxMjcuMC4wLjE
+  - {fileID: 32900000, guid: 7cb222076498bfa4ebe3f7649d8c653a, type: 3}
+  - {fileID: 32900000, guid: 780fb7ea2791c2849b93223e1703aa02, type: 3}
+  - {fileID: 32900000, guid: 21a0843737f508f4b870172b1062c660, type: 3}
   VR: 000001
   Scene: {fileID: 870006401}
   VRtexture: {fileID: 8400000, guid: cbf52239bf656e34ba26abdf596ae77d, type: 2}

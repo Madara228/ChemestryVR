@@ -41,7 +41,7 @@ namespace LiquidVolumeFX {
 																				oneSpill.GetComponent<Rigidbody> ().AddForce (force);
 																				StartCoroutine (DestroySpill (oneSpill));
 																}
-																lv.level -= spillAmount / 10f + 0.001f;
+																lv.level -= spillAmount / 1000f + 0.001f;
 												}
 								}
 

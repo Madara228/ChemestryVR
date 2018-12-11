@@ -10,6 +10,8 @@ public class MetaDataScript : MonoBehaviour
     public string str;
     public List<string> data = new List<string>();
     public List<string> data_1 = new List<string>();
+    public Text InfoText;
+    public Text InfoTextDescription;
 
     public Button btn;
 
@@ -36,6 +38,8 @@ public class MetaDataScript : MonoBehaviour
 
     public void OnClick()
     {
+        InfoText.text = JsonController.node[str]["name"];
+        InfoTextDescription.text = JsonController.node[str]["description"];
         Debug.Log(JsonController.node[str]["name"]);
         Debug.Log(JsonController.node[str]["description"]);
     }
