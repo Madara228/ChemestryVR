@@ -6,6 +6,7 @@ TagManager:
   tags:
   - H2S04
   - CH4
+  - ball
   layers:
   - Default
   - TransparentFX

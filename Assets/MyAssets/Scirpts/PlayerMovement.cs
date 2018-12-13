@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform camera;
     private float _toggleAngle = 30f;
     private bool _moveForward = false;
-    private float speed = 3f;
+    [SerializeField]private float speed = 3f;
     public AudioSource source;
     private CharacterController cc;
 

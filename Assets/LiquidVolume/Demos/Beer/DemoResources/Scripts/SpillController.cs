@@ -31,7 +31,7 @@ namespace LiquidVolumeFX {
 												Vector3 spillPos;
 												float spillAmount;
 												if (lv.GetSpillPoint (out spillPos, out spillAmount)) {
-																const int drops = 15;
+																const int drops = 10;
 																for (int k = 0; k < drops; k++) {
 																				GameObject oneSpill = Instantiate (spill) as GameObject;
 																				oneSpill.transform.position = spillPos + Random.insideUnitSphere * 0.01f;
@@ -47,7 +47,7 @@ namespace LiquidVolumeFX {
 
 
 								IEnumerator DestroySpill (GameObject spill) {
-												yield return new WaitForSeconds (1f);
+												yield return new WaitForSeconds (2f);
 												Destroy (spill);
 								}
 				}
