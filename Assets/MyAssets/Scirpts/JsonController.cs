@@ -18,11 +18,11 @@ public class JsonController : MonoBehaviour
     #if UNITY_EDITOR
         path = "file:" + Application.dataPath + "/StreamingAssets";
     #elif UNITY_ANDROID
-     path = "jar:file://"+ Application.dataPath + "!/assets/";
+        path = "jar:file://"+ Application.dataPath + "!/assets/";
     #elif UNITY_IOS
-     path = "file:" + Application.dataPath + "/Raw";
+        path = "file:" + Application.dataPath + "/Raw";
     #else
-     path = "file:"+ Application.dataPath + "/StreamingAssets";
+        path = "file:"+ Application.dataPath + "/StreamingAssets";
     #endif
         return path;
     }

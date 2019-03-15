@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using Debug = System.Diagnostics.Debug;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -16,25 +17,36 @@ public class PlayerMovement : MonoBehaviour
         source = GetComponent<AudioSource>();
     }
 
-    void Update()
+//    void Update()
+//    {
+//        //transform.position = new Vector3(transform.position.x,0.65f,transform.position.z);
+//
+//        if (camera.eulerAngles.x > _toggleAngle && camera.eulerAngles.x < 90f)
+//        {
+//            _moveForward = true;
+//        }
+//        else
+//        {
+//            
+//            _moveForward = false;
+//        }
+//
+//        if (_moveForward)
+//        {
+//            
+//            Vector3 forward = camera.TransformDirection(Vector3.forward);
+//            cc.SimpleMove(forward * speed);
+//        }
+//    }
+    private void FixedUpdate()
     {
-        //transform.position = new Vector3(transform.position.x,0.65f,transform.position.z);
-
-        if (camera.eulerAngles.x > _toggleAngle && camera.eulerAngles.x < 90f)
+        if (Input.GetButton("Fire1"))
+            //  if(_camera.eulerAngles.x>30f && _camera.eulerAngles.x<90f)
         {
-            _moveForward = true;
-        }
-        else
-        {
-            
-            _moveForward = false;
-        }
-
-        if (_moveForward)
-        {
-            
-            Vector3 forward = camera.TransformDirection(Vector3.forward);
-            cc.SimpleMove(forward * speed);
+            Debug.Assert(Camera.main != null, "Camera.main != null");
+            Vector3 moveForward = Camera.main.transform.TransformDirection(Vector3.forward);
+            transform.position += moveForward*Time.deltaTime * speed*Time.fixedDeltaTime;
+            //   Debug.Log(transform.position);
         }
     }
 }
